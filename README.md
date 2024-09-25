@@ -1,0 +1,1 @@
+This is my first project for the Odin Project couse, this project will show my basic html skills as well as Git skills.
