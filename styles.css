@@ -1,0 +1,33 @@
+* {
+    color:rgb(15, 15, 15);
+    background-color: rgb(231, 224, 215);
+    font-size: large;
+    font-weight: 200;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+li {
+    margin: 10px;
+    font-weight: 300;
+}
+
+h1 {
+    margin: 20px;
+    font-weight: 500;
+    font-size: 26px;
+}
+
+#recipie-links {
+    margin: 30px;
+    padding: 15px;
+    border: 2px;
+    border-color: black;
+    border-radius: 24px;
+    background-color: beige;
+    border-width: 2px;
+}
+#recipie-links a {
+    display: block;
+    margin: 5px;
+    background-color: beige;
+}
